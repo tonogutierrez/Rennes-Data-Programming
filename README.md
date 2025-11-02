@@ -78,4 +78,15 @@ Contributions welcome! Feel free to submit issues and pull requests.
 
 ---
 
+## 👥 Team Members
+[Name 1]
+
+[Name 2]
+
+[Name 3]
+
+[Name 4]
+
+
+
 *Using data science to understand global health challenges*
