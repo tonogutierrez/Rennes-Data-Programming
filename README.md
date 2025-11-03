@@ -52,8 +52,8 @@ FinalProject/
 - Simple linear regression per country to forecast 2025/2030 (clipped to [0,100]) and estimate     annual change (slope)
 
 ## Team Members
-- [@tonogutierrez]
-- [@zhngsimin-cloud]
-- [@OHHO-ZHANG]
+- [@tonogutierrez](https://github.com/tonogutierrez)
+- [@zhngsimin-cloud](https://github.com/zhngsimin-cloud)
+- [@OHHO-ZHANG](https://github.com/OHHO-ZHANG)
 
 
