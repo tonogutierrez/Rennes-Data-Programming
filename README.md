@@ -79,13 +79,15 @@ Contributions welcome! Feel free to submit issues and pull requests.
 ---
 
 ## 👥 Team Members
-[Name 1]
+[Tono]
 
-[Name 2]
+[Yanan CUI]
 
-[Name 3]
+[Jingxi LU]
 
-[Name 4]
+[Simin Zhang]
+
+[Yushi ZHANG]
 
 
 
