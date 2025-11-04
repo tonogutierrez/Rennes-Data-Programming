@@ -55,5 +55,7 @@ FinalProject/
 - [@tonogutierrez](https://github.com/tonogutierrez)
 - [@zhngsimin-cloud](https://github.com/zhngsimin-cloud)
 - [@OHHO-ZHANG](https://github.com/OHHO-ZHANG)
+- [@nancyhed-ui](https://github.com/nancyhed-ui)
+- [@Chrristy](https://github.com/Chrristy)
 
 
